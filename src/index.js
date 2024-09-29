@@ -1,6 +1,7 @@
 import { homePage } from "./home.js";
 import { menuPage } from "./menu.js";
 import { contactPage } from "./contact.js";
+import "./styles.css";
 
 let currentPage = null;
 document.addEventListener("DOMContentLoaded", () => {
